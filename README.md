@@ -1,4 +1,4 @@
-# cs152 Proposal: Differential equation solver
+# Differential equation solver
 
 ## Project Description
 I am planning to create and train a NN based for solving differential equations. This NN will get an input of ODE, either give analytic solution if exists, or give a good approximation of the solution in a simple form. 
